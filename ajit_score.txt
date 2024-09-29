@@ -1,0 +1,88 @@
+Query:US politics
+10 undecided voters explain why they haven’t picked a side in this election.txt:0
+2024 US election Kamala Harris_s transformation.txt:1
+Arm the public with facts Microsoft billionaire fights US election disinformation.txt:0
+Election 2024 Latest Trump and Harris campaign for undecided voters with just 6 weeks left.txt:1
+Fears mount that election deniers could disrupt vote count in US swing.txt:1
+Harris Had Stronger Debate, Polls Find, but the Race Remains Deadlocked.txt:0
+Harris to condemn Trump in Georgia after news of abortion-related deaths.txt:0
+Mounting North Korean threats await next US president.txt:0
+Oprah, Swift and Clooney do celebrity endorsements matter in the US election.txt:0
+Poll shows US voters think Harris, Trump on equal footing on economy, crime, Gaza war.txt:1
+Pope Francis tells US Catholics to choose ‘lesser evil’ in coming election.txt:1
+Presidential campaigns hit battleground states in very close races.txt:0
+So it begins 2024 presidential election underway as early voting opens in states.txt:1
+State of the Union Germany_s border politics and US election campaign fever.txt:1
+The Harris–Trump debate showed US foreign policy matters in this election.txt:1
+Trump and Harris vocabularies signal their different frames of mind.txt:0
+Trump-Harris debate sums up policy-light US election.txt:1
+US election latest.txt:0
+US election polls Who is ahead - Harris or Trump.txt:1
+US presidential polls Elon Musk endorses Trump, his workers back Harris.txt:0
+
+Query:Trump Harris
+10 undecided voters explain why they haven’t picked a side in this election.txt:1
+2024 US election Kamala Harris_s transformation.txt:0
+Arm the public with facts Microsoft billionaire fights US election disinformation.txt:0
+Election 2024 Latest Trump and Harris campaign for undecided voters with just 6 weeks left.txt:1
+Fears mount that election deniers could disrupt vote count in US swing.txt:1
+Harris Had Stronger Debate, Polls Find, but the Race Remains Deadlocked.txt:0
+Harris to condemn Trump in Georgia after news of abortion-related deaths.txt:0
+Mounting North Korean threats await next US president.txt:0
+Oprah, Swift and Clooney do celebrity endorsements matter in the US election.txt:1
+Poll shows US voters think Harris, Trump on equal footing on economy, crime, Gaza war.txt:0
+Pope Francis tells US Catholics to choose ‘lesser evil’ in coming election.txt:1
+Presidential campaigns hit battleground states in very close races.txt:1
+So it begins 2024 presidential election underway as early voting opens in states.txt:1
+State of the Union Germany_s border politics and US election campaign fever.txt:0
+The Harris–Trump debate showed US foreign policy matters in this election.txt:0
+Trump and Harris vocabularies signal their different frames of mind.txt:1
+Trump-Harris debate sums up policy-light US election.txt:0
+US election latest.txt:0
+US election polls Who is ahead - Harris or Trump.txt:0
+US presidential polls Elon Musk endorses Trump, his workers back Harris.txt:0
+
+Query:Policies
+10 undecided voters explain why they haven’t picked a side in this election.txt:0
+2024 US election Kamala Harris_s transformation.txt:1
+Arm the public with facts Microsoft billionaire fights US election disinformation.txt:0
+Election 2024 Latest Trump and Harris campaign for undecided voters with just 6 weeks left.txt:1
+Fears mount that election deniers could disrupt vote count in US swing.txt:1
+Harris Had Stronger Debate, Polls Find, but the Race Remains Deadlocked.txt:0
+Harris to condemn Trump in Georgia after news of abortion-related deaths.txt:1
+Mounting North Korean threats await next US president.txt:0
+Oprah, Swift and Clooney do celebrity endorsements matter in the US election.txt:1
+Poll shows US voters think Harris, Trump on equal footing on economy, crime, Gaza war.txt:1
+Pope Francis tells US Catholics to choose ‘lesser evil’ in coming election.txt:1
+Presidential campaigns hit battleground states in very close races.txt:0
+So it begins 2024 presidential election underway as early voting opens in states.txt:0
+State of the Union Germany_s border politics and US election campaign fever.txt:0
+The Harris–Trump debate showed US foreign policy matters in this election.txt:1
+Trump and Harris vocabularies signal their different frames of mind.txt:0
+Trump-Harris debate sums up policy-light US election.txt:0
+US election latest.txt:1
+US election polls Who is ahead - Harris or Trump.txt:1
+US presidential polls Elon Musk endorses Trump, his workers back Harris.txt:0
+
+Query:Presidential Election
+10 undecided voters explain why they haven’t picked a side in this election.txt:1
+2024 US election Kamala Harris_s transformation.txt:1
+Arm the public with facts Microsoft billionaire fights US election disinformation.txt:1
+Election 2024 Latest Trump and Harris campaign for undecided voters with just 6 weeks left.txt:1
+Fears mount that election deniers could disrupt vote count in US swing.txt:1
+Harris Had Stronger Debate, Polls Find, but the Race Remains Deadlocked.txt:0
+Harris to condemn Trump in Georgia after news of abortion-related deaths.txt:1
+Mounting North Korean threats await next US president.txt:1
+Oprah, Swift and Clooney do celebrity endorsements matter in the US election.txt:1
+Poll shows US voters think Harris, Trump on equal footing on economy, crime, Gaza war.txt:1
+Pope Francis tells US Catholics to choose ‘lesser evil’ in coming election.txt:1
+Presidential campaigns hit battleground states in very close races.txt:0
+So it begins 2024 presidential election underway as early voting opens in states.txt:1
+State of the Union Germany_s border politics and US election campaign fever.txt:0
+The Harris–Trump debate showed US foreign policy matters in this election.txt:0
+Trump and Harris vocabularies signal their different frames of mind.txt:0
+Trump-Harris debate sums up policy-light US election.txt:1
+US election latest.txt:0
+US election polls Who is ahead - Harris or Trump.txt:0
+US presidential polls Elon Musk endorses Trump, his workers back Harris.txt:0
+
